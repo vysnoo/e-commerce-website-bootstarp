@@ -16,3 +16,18 @@
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
   background-color: black;
 }
+
+.navbar-brand {
+  font-size: 25px;
+  font-weight: 800;
+  color: #29f700 !important;
+}
+
+#navbarSupportedContent a {
+  color: #fff;
+  border-bottom: 2px solid transparent;
+}
+
+#navbarSupportedContent a:hover {
+  border-bottom: 2px solid #29f700;
+}
