@@ -45,3 +45,12 @@ section {
   justify-content: center;
   align-items: center;
 }
+
+/* home */
+
+#home {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)),
+    url(img/spices.jpg);
+  background-size: cover;
+  background-position: center;
+}
