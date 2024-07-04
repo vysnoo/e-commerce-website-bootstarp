@@ -53,4 +53,14 @@ section {
     url(img/spices.jpg);
   background-size: cover;
   background-position: center;
+  flex-direction: column;
+}
+
+#home h1 {
+  font-size: 100px;
+  color: white;
+  letter-spacing: 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 0px 1px 0px #ccc, 0px 2px 0px #ccc, 0px 3px 0px #ccc,
+    0px 4px 0px #ccc, 0px 5px 0px #ccc, 0px 6px 0px #ccc;
 }
