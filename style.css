@@ -92,3 +92,29 @@ section {
 #about p {
   color: white;
 }
+
+/*product*/
+
+#product {
+  background: #e5e5e5;
+}
+#product h1 {
+  font-size: 50px;
+  letter-spacing: 2px;
+  font-weight: 700;
+}
+#product img {
+  width: 320px;
+  height: 440px;
+}
+.card {
+  width: 320px;
+  height: 500px;
+  background: #e5e5e5 !important;
+  border: none !important;
+  box-shadow: 15px 20px 20px rgba(0, 0, 0, 0.3), inset 4px 4px 10px white;
+  border-radius: 20px !important;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+}
